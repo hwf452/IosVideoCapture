@@ -14,8 +14,6 @@
 		4A8E21E91EB82EC8009C3BA9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A8E21E81EB82EC8009C3BA9 /* main.m */; };
 		4A8E21EC1EB82EC8009C3BA9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A8E21EB1EB82EC8009C3BA9 /* AppDelegate.m */; };
 		4A8E21F71EB82EC8009C3BA9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A8E21F51EB82EC8009C3BA9 /* LaunchScreen.storyboard */; };
-		4A8E220C1EB8645E009C3BA9 /* ic20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A8E220B1EB8645E009C3BA9 /* ic20@2x.png */; };
-		4A8E220E1EB86463009C3BA9 /* ic20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A8E220D1EB86463009C3BA9 /* ic20@3x.png */; };
 		4AEB53E71EC2BE0600329FDB /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AEB53E61EC2BE0600329FDB /* MainViewController.m */; };
 		4AEB53EA1EC2C05700329FDB /* MainTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AEB53E91EC2C05700329FDB /* MainTableViewCell.m */; };
 		4AEB53FE1EC2E72F00329FDB /* NetRequestClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AEB53FD1EC2E72F00329FDB /* NetRequestClass.m */; };
@@ -41,8 +39,6 @@
 		4A8E21F31EB82EC8009C3BA9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A8E21F61EB82EC8009C3BA9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4A8E21F81EB82EC8009C3BA9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4A8E220B1EB8645E009C3BA9 /* ic20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic20@2x.png"; sourceTree = "<group>"; };
-		4A8E220D1EB86463009C3BA9 /* ic20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic20@3x.png"; sourceTree = "<group>"; };
 		4AEB53DB1EC2BA3200329FDB /* edaocarios-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "edaocarios-Prefix.pch"; sourceTree = "<group>"; };
 		4AEB53E51EC2BE0600329FDB /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
 		4AEB53E61EC2BE0600329FDB /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
@@ -113,8 +109,6 @@
 		4A8E21E71EB82EC8009C3BA9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				4A8E220D1EB86463009C3BA9 /* ic20@3x.png */,
-				4A8E220B1EB8645E009C3BA9 /* ic20@2x.png */,
 				4A8E21E81EB82EC8009C3BA9 /* main.m */,
 				4A008AA31EBC8CA100E3F2C3 /* InfoPlist.strings */,
 				4AEB53DB1EC2BA3200329FDB /* edaocarios-Prefix.pch */,
@@ -279,8 +273,6 @@
 			files = (
 				4A8E21F71EB82EC8009C3BA9 /* LaunchScreen.storyboard in Resources */,
 				4A008AA11EBC8CA100E3F2C3 /* InfoPlist.strings in Resources */,
-				4A8E220E1EB86463009C3BA9 /* ic20@3x.png in Resources */,
-				4A8E220C1EB8645E009C3BA9 /* ic20@2x.png in Resources */,
 				4A634C351EBC8B3C00E0CABE /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
